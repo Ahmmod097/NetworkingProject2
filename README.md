@@ -1,4 +1,4 @@
-# NetworkingProject2
+# A Simple P2P Chat Application
 This is a peer to peer chat application.
 It is highly recommendable beacuse it is safe to send messages...Nobody can see the messages except the sender and receiver.
 
