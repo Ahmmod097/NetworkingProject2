@@ -26,9 +26,9 @@ Features:
 5.Change the color of the message window
 
 Some Snapshots: 
-Splash Screen
+# Splash Screen
 ![218957835_347821746798206_6685183173297862164_n](https://user-images.githubusercontent.com/55923593/126781461-2aa91ef4-238e-452b-965b-596ce78a4b83.png)
-Main GUI
+# Main GUI
 ![219032671_387048229751288_8904696222802138667_n](https://user-images.githubusercontent.com/55923593/126781436-ab238423-18a9-4bdc-8ec7-f7cdb976c946.png)
 ![219951009_522357832307826_7729453043240541060_n](https://user-images.githubusercontent.com/55923593/126781449-d4907711-02f5-4ce6-b498-5f4d17c203bf.png)
 ![220383329_375618127290475_3577837456861101161_n](https://user-images.githubusercontent.com/55923593/126781453-c9e5bc9d-c71e-48a7-be37-0a43c765c4b7.png)
